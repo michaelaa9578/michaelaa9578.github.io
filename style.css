@@ -81,3 +81,17 @@ a {
 .navbar-nav li a:hover {
     color: #2e72a1 !important;
 }
+
+/*custom css*/
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.spaced-list li {
+    margin: 40px 0;
+}
