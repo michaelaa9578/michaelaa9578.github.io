@@ -1,5 +1,5 @@
-let ownerName = "Mr. Mueller"
-let userName = "bmuellerhstat";
+let ownerName = "Michaela Arendac"
+let userName = "michaelaa9578";
 
 document.querySelectorAll(".owner-name").forEach((e) => {
     e.innerHTML = ownerName;
